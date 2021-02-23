@@ -11,6 +11,6 @@ Sou graduado em ciência da computação pela Universidade Federal de Pernambuco
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> :blush: &nbsp; Posso te ajudar com a linguagem ECMAScript, banco de dados e os processos de desenvolvimento de software 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, namorar com minha esposa e brincar com minhas filhas. Adoro filmes e seriados no Netflix e na Amazon prime
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/)](https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/) 
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-fabioabrantes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/)](https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.abrantes.diniz@gmail.com)](mailto:fabio.abrantes.dinio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fabio.abrantes.diniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.abrantes.diniz@gmail.com)](mailto:fabio.abrantes.diniz@gmail.com)
