@@ -9,7 +9,7 @@ Sou graduado em ciência da computação pela Universidade Federal de Pernambuco
 
  &nbsp; Estou trabalhando por si mesmo
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> :blush: &nbsp; Posso te ajudar com a linguagem ECMAScript, banco de dados e os processos de desenvolvimento de software 
+ <br/> :blush: &nbsp; Posso te ajudar com a linguagem ECMAScript, React e React-native, banco de dados e os processos de desenvolvimento de software 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, namorar com minha esposa e brincar com minhas filhas. Adoro filmes e seriados no Netflix e na Amazon prime
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-fabioabrantes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/)](https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/) 
 | 
