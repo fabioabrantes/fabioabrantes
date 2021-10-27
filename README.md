@@ -12,6 +12,9 @@ Sou graduado em ciência da computação pela Universidade Federal de Pernambuco
 [![Gmail Badge](https://img.shields.io/badge/-fabio.abrantes.diniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.abrantes.diniz@gmail.com)](mailto:fabio.abrantes.diniz@gmail.com)
 
 ![Fabio Diniz's github stats](https://github-readme-stats.vercel.app/api?username=fabioabrantes&show_icons=true&theme=radical)
+![Fabio Diniz languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioabrantes&layout=compact&langs_count=7&theme=dark)
+
+![fabio diniz visitors](https://komarev.com/ghpvc/?username=your-github-fabioabrantes&color=ff69b4&style=flat&label=visitors)
 
 [![GitHub Followers](https://img.shields.io/github/followers/fabioabrantes?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/fabioabrantes)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/)
