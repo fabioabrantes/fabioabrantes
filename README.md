@@ -1,4 +1,4 @@
-<img width="auto" src="https://avatars.githubusercontent.com/u/62598805?s=460&u=be39aa9d611cfa852f701a36f145d7ba02e62ebd&v=4">
+<img width="300" src="https://avatars.githubusercontent.com/u/62598805?s=460&u=be39aa9d611cfa852f701a36f145d7ba02e62ebd&v=4">
 
 
 # Fábio Abrantes Diniz
