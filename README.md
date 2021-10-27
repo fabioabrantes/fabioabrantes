@@ -1,6 +1,3 @@
-<img width="300" src="https://avatars.githubusercontent.com/u/62598805?s=460&u=be39aa9d611cfa852f701a36f145d7ba02e62ebd&v=4">
-
-
 # Fábio Abrantes Diniz
 
 ## Olá pessoal 👋
@@ -11,6 +8,11 @@ Sou graduado em ciência da computação pela Universidade Federal de Pernambuco
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> :blush: &nbsp; Posso te ajudar com a linguagem ECMAScript, React e React-native, banco de dados e os processos de desenvolvimento de software 
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, namorar com minha esposa e brincar com minhas filhas. Adoro filmes e seriados no Netflix e na Amazon prime
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-fabioabrantes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/)](https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/) 
-| 
+ <br/> :email: &nbsp; Entre em contato comigo: 
 [![Gmail Badge](https://img.shields.io/badge/-fabio.abrantes.diniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.abrantes.diniz@gmail.com)](mailto:fabio.abrantes.diniz@gmail.com)
+
+![Fabio Diniz's github stats](https://github-readme-stats.vercel.app/api?username=fabioabrantes&show_icons=true&theme=radical)
+
+[![GitHub Followers](https://img.shields.io/github/followers/fabioabrantes?style=flat&labelColor=0D0D0D&logo=Github&Color=white)](https://github.com/fabioabrantes)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/fabio-abrantes-diniz-a1357221/)
+[![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/Fabinho_Bala)
