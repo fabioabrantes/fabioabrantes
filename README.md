@@ -7,7 +7,7 @@ Sou graduado em ciência da computação pela Universidade Federal de Pernambuco
  &nbsp; Mais Detalhes: <br/>
  <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
  <br/> :blush: &nbsp; Posso te ajudar com a linguagem ECMAScript, React e React-native, banco de dados e os processos de desenvolvimento de software 
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, namorar com minha esposa e brincar com minhas filhas. Adoro filmes e seriados no Netflix e na Amazon prime
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, namorar com minha esposa e brincar com minhas filhas. Adoro filmes e seriados no Netflix e na Amazon prime e agora Disneyplus
  <br/> :email: &nbsp; Entre em contato comigo: 
 [![Gmail Badge](https://img.shields.io/badge/-fabio.abrantes.diniz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabio.abrantes.diniz@gmail.com)](mailto:fabio.abrantes.diniz@gmail.com)
 
