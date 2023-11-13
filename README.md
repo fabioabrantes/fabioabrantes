@@ -1,7 +1,7 @@
 # Fábio Abrantes Diniz
 
 ## Olá pessoal 👋
-Sou graduado em ciência da computação pela Universidade Federal de Pernambuco (2009) e mestrado em ciência da computação pelas Universidade do Estado do Rio Grande do Norte - UERN e Universidade Federal Rural do Semi-Árido - UFERSA. Atualmente estou focando profundamente em desenvolvimento Web e mobile. No frontend com as tecnologias React/React Native, html5,css e principalmente ECMAScript com typescript e no backend estou utilizando o framework Nodejs. Já estou no meu terceiro ano engajado na tecnologia do React/React Native. É muito facinante. A cada dia me empolgo com essas stacks. Espero não parar nem tão cedo.
+Sou graduado em ciência da computação pela Universidade Federal de Pernambuco (2009) e mestrado em ciência da computação pelas Universidade do Estado do Rio Grande do Norte - UERN e Universidade Federal Rural do Semi-Árido - UFERSA. Atualmente estou focando profundamente em desenvolvimento Web e mobile. No frontend com as tecnologias React/React Native, html5,css e principalmente ECMAScript com typescript e no backend estou utilizando o framework Nodejs.
 
 
  &nbsp; Mais Detalhes: <br/>
